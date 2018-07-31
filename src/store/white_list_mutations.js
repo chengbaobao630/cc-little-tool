@@ -1,0 +1,6 @@
+export const CHOOSE_HOST = 'CHOOSE_HOST'
+export const GET_CURRENT_HOST = 'GET_CURRENT_HOST'
+export const GET_WHITE_LIST = 'GET_WHITE_LIST'
+export const ADD_WHITE_LIST = 'ADD_WHITE_LIST'
+export const DEL_WHITE_LIST = 'DEL_WHITE_LIST'
+export const GET_REGISTER_NODE = 'GET_REGISTER_NODE'
